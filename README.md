@@ -34,5 +34,3 @@ It includes temperature, humidity, wind speed, air quality, sunrise/sunset times
 **Ganesh Gupta**  
 [LinkedIn Profile](https://www.linkedin.com/in/ganeshgupta2005/)
 
----
-Made with ❤️ using Power BI
