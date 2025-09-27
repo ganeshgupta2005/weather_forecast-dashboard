@@ -4,7 +4,7 @@ This project is a **Power BI dashboard** that visualizes real-time and forecast 
 It includes temperature, humidity, wind speed, air quality, sunrise/sunset times, and rain chances for multiple cities.
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](weather_dahboard-Video.mp4)
+![Dashboard Screenshot](Weather_dasboard-image.png)
 
 ## 🛠 Features
 - Real-time current weather data
